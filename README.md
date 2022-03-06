@@ -8,11 +8,14 @@
 <a href="https://www.linkedin.com/in/khoa-minh-8b9a2b183/">
   <img align="left" alt="linkedin" width="35px" src="https://github.com/khoa083/khoa/blob/b86973a175fdc93d330b43c3a65bd6ac09304de7/Khoa_ne/img/2/twitter.gif?raw=true" />
 </a>
+<a href="https://t.me/K_black202">
+  <img align="left" alt="telegram" width="35px" src="https://github.com/khoa083/khoa/blob/14b020e921fc9dc5f75a570a5d92b723766b5091/Khoa_ne/img/2/telegram.gif?raw=true" />
+</a>
 <a href="https://www.linkedin.com/in/khoa-minh-8b9a2b183/">
   <img align="left" alt="linkedin" width="35px" src="https://github.com/khoa083/khoa/blob/b86973a175fdc93d330b43c3a65bd6ac09304de7/Khoa_ne/img/2/youtube.gif?raw=true" />
 </a>
 <br/>
- <hr  width="20%" align="left" />
+ <hr  width="30%" align="left" />
  
 ![](https://visitor-badge.glitch.me/badge?page_id=khoa083.khoa)
 <br/>
