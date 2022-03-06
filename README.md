@@ -14,4 +14,4 @@
 <br/>
  <hr  width="20%" align="left" />
 
-Hello, I'm Minh Khoa, a student majoring in information technology from Vietnam, looking forward to your help 😁😁😁.
+Hi, I'm Minh Khoa, a student majoring in information technology from Vietnam, looking forward to your help 😁😁😁.
